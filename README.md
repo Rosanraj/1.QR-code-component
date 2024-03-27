@@ -1,3 +1,4 @@
+![image](https://github.com/Rosanraj/QR-code-component/assets/131958853/b4127edc-9c70-44b0-9f3a-a775244343e6)
 
 # Frontend Mentor - QR code component
 
